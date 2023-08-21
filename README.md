@@ -40,26 +40,21 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
+<p align="center"> 
 
-- **Languages**:
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-
-
-    
-<br>
-
-
-
-- **Extras**:
-
-    ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;  
-
-
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
 </p>
 
 <br>
@@ -75,8 +70,8 @@
 
 <div align="center">
 
-[![Abdul Khalid's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdul Khalid's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Eduardo Silva GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Eduardo1179&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Eduardo SIlva GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Eduardo1179&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
@@ -96,7 +91,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/eduardo-silva-gaete-4b0aa5218/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:  Eduardo.Silva-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
